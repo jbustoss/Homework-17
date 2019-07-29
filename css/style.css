@@ -1,0 +1,66 @@
+body  {
+    background-image: url("background.png");
+    background-color: #cccccc;
+  }
+.leftblue {
+    float: left;
+    width: 125px;
+    height: 650px;
+}
+.rightblue {
+  width: 125px;
+  height: 650px;
+  float: right;
+}
+.container {
+
+}
+.name {
+  font-family: 'Major Mono Display', monospace;
+  color: white;
+  font-size: 88px;
+}
+.row1 {
+  padding-top: 150px;
+
+}
+.row2 {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 24px;
+  text-justify: left;
+  padding-top: 50px;
+  width: 70%;
+}
+.row3 {
+
+}
+.socials {
+  display: inline-block;
+  padding: 30px;
+}
+.facts {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 24px;
+  padding-top: 25px;
+}
+.nav {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 24px;
+  padding: 30px;
+  display: inline-block;
+}
+.row6 {
+  padding-top: 25px;
+}
+.card-body {
+  text-align: center;
+  background-color: #29B6C9;
+  font-family: 'Montserrat', sans-serif;
+}
+.btn {
+  background-color: black;
+  border: none;
+}
